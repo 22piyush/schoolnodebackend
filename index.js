@@ -8,8 +8,8 @@ app.use(cors());
 const STUDENTS = [
     {
         rollNo:1,
-        name:"Prathmesh",
-        city:"Hinganghat",
+        name:"Piyush Aglawe",
+        city:"Pune",
     },
     {
         rollNo:2,
